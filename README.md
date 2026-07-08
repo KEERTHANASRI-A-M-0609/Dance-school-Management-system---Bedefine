@@ -1,5 +1,9 @@
 # BEDEFINE — Dance School Management System
 
+**Deployed Link:
+
+https://bedefine-dance-academy.netlify.app/**
+
 BEDEFINE is a full-stack web application developed to simplify the management of a dance academy. It enables students to explore dance classes, register for courses, view trainer profiles and upcoming events, submit reviews, and contact the academy. The system also provides secure user authentication and efficient backend management for a smooth user experience.
 
 ## Tech Stack
